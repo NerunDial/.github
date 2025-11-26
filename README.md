@@ -1,4 +1,7 @@
-# Nerun
+ <picture> 
+    <source srcset="./logodark.svg" media="(prefers-color-scheme: dark)">
+    <img src="./logolight.svg" alt="Nerun" width="500">
+  </picture>
 
 Bem-vindo à Nerun, a plataforma de telefonia em nuvem feita para quem vive de venda no telefone. 📞⚡  
 
